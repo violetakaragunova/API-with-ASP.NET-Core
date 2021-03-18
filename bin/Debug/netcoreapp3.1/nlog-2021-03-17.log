@@ -1,0 +1,66 @@
+2021-03-17 13:40:25.5443|INFO|WebApplication1.Program|Initializing application...
+2021-03-17 13:40:33.9231|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-03-17 13:40:33.9407|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-03-17 13:40:33.9407|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\WinX\source\repos\WebApplication1\WebApplication1
+2021-03-17 13:48:33.9481|INFO|WebApplication1.Program|Initializing application...
+2021-03-17 13:48:41.4296|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-03-17 13:48:41.4618|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-03-17 13:48:41.4974|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\WinX\source\repos\WebApplication1\WebApplication1
+2021-03-17 13:51:20.6966|INFO|WebApplication1.Program|Initializing application...
+2021-03-17 13:51:29.3539|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-03-17 13:51:29.3762|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-03-17 13:51:29.3762|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\WinX\source\repos\WebApplication1\WebApplication1
+2021-03-17 14:02:42.5583|INFO|WebApplication1.Program|Initializing application...
+2021-03-17 14:02:49.1068|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-03-17 14:02:49.1192|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-03-17 14:02:49.1297|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\WinX\source\repos\WebApplication1\WebApplication1
+2021-03-17 14:03:14.4449|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request.
+2021-03-17 14:03:27.4603|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request.
+2021-03-17 14:06:16.9014|INFO|WebApplication1.Program|Initializing application...
+2021-03-17 14:06:21.7438|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-03-17 14:06:21.7587|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-03-17 14:06:21.7665|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\WinX\source\repos\WebApplication1\WebApplication1
+2021-03-17 14:06:30.5265|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request.
+2021-03-17 14:06:51.5092|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request.
+2021-03-17 14:15:26.2357|INFO|WebApplication1.Program|Initializing application...
+2021-03-17 14:15:32.3367|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-03-17 14:15:32.3456|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-03-17 14:15:32.3456|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\WinX\source\repos\WebApplication1\WebApplication1
+2021-03-17 14:15:36.7607|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request.
+2021-03-17 14:29:50.7064|INFO|WebApplication1.Program|Initializing application...
+2021-03-17 14:29:57.1418|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-03-17 14:29:57.1418|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-03-17 14:29:57.1631|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\WinX\source\repos\WebApplication1\WebApplication1
+2021-03-17 14:29:59.2208|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request.
+2021-03-17 14:33:57.5608|INFO|WebApplication1.Program|Initializing application...
+2021-03-17 14:34:02.6248|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-03-17 14:34:02.6366|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-03-17 14:34:02.6453|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\WinX\source\repos\WebApplication1\WebApplication1
+2021-03-17 14:37:33.3944|INFO|WebApplication1.Program|Initializing application...
+2021-03-17 14:37:39.4864|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-03-17 14:37:39.5092|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-03-17 14:37:39.5197|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\WinX\source\repos\WebApplication1\WebApplication1
+2021-03-17 22:43:40.1670|INFO|WebApplication1.Program|Initializing application...
+2021-03-17 22:43:48.8770|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-03-17 22:43:48.8939|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-03-17 22:43:48.9362|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\WinX\source\repos\WebApplication1\WebApplication1
+2021-03-17 22:48:09.3298|INFO|WebApplication1.Program|Initializing application...
+2021-03-17 22:48:16.8623|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-03-17 22:48:16.8761|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-03-17 22:48:16.9016|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\WinX\source\repos\WebApplication1\WebApplication1
+2021-03-17 22:50:53.4032|INFO|WebApplication1.Program|Initializing application...
+2021-03-17 22:50:58.5646|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-03-17 22:50:58.5646|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-03-17 22:50:58.5834|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\WinX\source\repos\WebApplication1\WebApplication1
+2021-03-17 22:57:01.7393|INFO|WebApplication1.Program|Initializing application...
+2021-03-17 22:57:08.1368|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-03-17 22:57:08.1447|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-03-17 22:57:08.1447|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\WinX\source\repos\WebApplication1\WebApplication1
+2021-03-17 23:43:18.2970|INFO|WebApplication1.Program|Initializing application...
+2021-03-17 23:43:28.0742|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-03-17 23:43:28.1134|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-03-17 23:43:28.1461|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\WinX\source\repos\WebApplication1\WebApplication1
+2021-03-17 23:53:08.5042|INFO|WebApplication1.Program|Initializing application...
+2021-03-17 23:53:16.7389|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-03-17 23:53:16.7756|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-03-17 23:53:16.8024|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\WinX\source\repos\WebApplication1\WebApplication1

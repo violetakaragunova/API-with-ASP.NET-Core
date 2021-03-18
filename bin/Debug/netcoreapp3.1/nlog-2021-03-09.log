@@ -1,0 +1,9 @@
+2021-03-09 17:08:54.4457|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-03-09 17:08:54.5808|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-03-09 17:08:54.6142|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\WinX\source\repos\WebApplication1\WebApplication1
+2021-03-09 17:09:12.8347|FATAL|WebApplication1.Controllers.PointsOfInterestController|Exception while getting points of interest for city with id 10.
+2021-03-09 17:12:00.7059|INFO|WebApplication1.Program|Initializing application...
+2021-03-09 17:12:03.2297|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-03-09 17:12:03.2649|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-03-09 17:12:03.2801|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\WinX\source\repos\WebApplication1\WebApplication1
+2021-03-09 17:12:13.4079|FATAL|WebApplication1.Controllers.PointsOfInterestController|Exception while getting points of interest for city with id 10.

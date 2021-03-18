@@ -1,0 +1,63 @@
+2021-03-15 12:29:28.2179|INFO|WebApplication1.Program|Initializing application...
+2021-03-15 12:29:30.4710|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-03-15 12:29:30.4815|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-03-15 12:29:30.4815|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\WinX\source\repos\WebApplication1\WebApplication1
+2021-03-15 12:34:34.7588|INFO|WebApplication1.Program|Initializing application...
+2021-03-15 12:34:36.9188|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-03-15 12:34:36.9318|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-03-15 12:34:36.9318|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\WinX\source\repos\WebApplication1\WebApplication1
+2021-03-15 13:31:47.5450|INFO|WebApplication1.Program|Initializing application...
+2021-03-15 13:31:50.0546|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-03-15 13:31:50.0546|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-03-15 13:31:50.0733|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\WinX\source\repos\WebApplication1\WebApplication1
+2021-03-15 13:34:10.3412|INFO|WebApplication1.Program|Initializing application...
+2021-03-15 13:34:12.4159|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-03-15 13:34:12.4159|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-03-15 13:34:12.4317|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\WinX\source\repos\WebApplication1\WebApplication1
+2021-03-15 13:34:37.2350|INFO|WebApplication1.Program|Initializing application...
+2021-03-15 13:34:39.8366|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-03-15 13:34:39.8551|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-03-15 13:34:39.8734|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\WinX\source\repos\WebApplication1\WebApplication1
+2021-03-15 13:36:01.4511|INFO|WebApplication1.Program|Initializing application...
+2021-03-15 13:36:03.9485|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-03-15 13:36:03.9642|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-03-15 13:36:03.9778|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\WinX\source\repos\WebApplication1\WebApplication1
+2021-03-15 13:37:26.7356|INFO|WebApplication1.Program|Initializing application...
+2021-03-15 13:37:29.3627|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-03-15 13:37:29.3738|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-03-15 13:37:29.3808|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\WinX\source\repos\WebApplication1\WebApplication1
+2021-03-15 13:44:45.4970|INFO|WebApplication1.Program|Initializing application...
+2021-03-15 13:44:48.5552|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-03-15 13:44:48.5754|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-03-15 13:44:48.6068|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\WinX\source\repos\WebApplication1\WebApplication1
+2021-03-15 14:13:32.3031|ERROR|Microsoft.EntityFrameworkCore.Database.Command|Failed executing DbCommand (14ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+CREATE TABLE [Cities] (
+    [Id] int NOT NULL IDENTITY,
+    [Name] nvarchar(50) NOT NULL,
+    [Description] nvarchar(200) NULL,
+    CONSTRAINT [PK_Cities] PRIMARY KEY ([Id])
+);
+2021-03-15 14:15:13.2048|ERROR|Microsoft.EntityFrameworkCore.Database.Command|Failed executing DbCommand (4ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+CREATE TABLE [Cities] (
+    [Id] int NOT NULL IDENTITY,
+    [Name] nvarchar(50) NOT NULL,
+    [Description] nvarchar(200) NULL,
+    CONSTRAINT [PK_Cities] PRIMARY KEY ([Id])
+);
+2021-03-15 14:30:54.2531|INFO|WebApplication1.Program|Initializing application...
+2021-03-15 14:31:00.7963|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-03-15 14:31:00.8132|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-03-15 14:31:00.8194|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\WinX\source\repos\WebApplication1\WebApplication1
+2021-03-15 14:33:27.3768|INFO|WebApplication1.Program|Initializing application...
+2021-03-15 14:33:32.9009|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-03-15 14:33:32.9206|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-03-15 14:33:32.9343|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\WinX\source\repos\WebApplication1\WebApplication1
+2021-03-15 16:56:52.3959|INFO|WebApplication1.Program|Initializing application...
+2021-03-15 16:57:04.8778|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-03-15 16:57:04.8915|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-03-15 16:57:04.8915|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\WinX\source\repos\WebApplication1\WebApplication1
+2021-03-15 16:57:22.3889|INFO|WebApplication1.Program|Initializing application...
+2021-03-15 17:07:52.4283|INFO|WebApplication1.Program|Initializing application...
+2021-03-15 17:08:00.4605|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-03-15 17:08:00.4747|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-03-15 17:08:00.4839|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\WinX\source\repos\WebApplication1\WebApplication1
